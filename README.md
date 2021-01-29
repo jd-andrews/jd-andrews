@@ -1,5 +1,5 @@
-##### Test
+## Hi, I'm JD
 
-- this is a test
-- obviously we hope it works
-  _italics, right?_
+#### ...and we're still working on this...
+
+Developer and all-around creative currently living in Detroit, MI.
